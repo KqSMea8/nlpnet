@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake
+END
+EigenDetermineVSServicePack.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/EigenDetermineVSServicePack.cmake
+END
+language_support.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/language_support.cmake
+END
+EigenUninstall.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/EigenUninstall.cmake
+END
+FindGoogleHash.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindGoogleHash.cmake
+END
+FindBLAS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindBLAS.cmake
+END
+FindMetis.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindMetis.cmake
+END
+FindAdolc.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindAdolc.cmake
+END
+FindGMP.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindGMP.cmake
+END
+FindScotch.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindScotch.cmake
+END
+EigenTesting.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/EigenTesting.cmake
+END
+FindGSL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindGSL.cmake
+END
+FindCholmod.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindCholmod.cmake
+END
+FindSPQR.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindSPQR.cmake
+END
+UseEigen3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/UseEigen3.cmake
+END
+FindUmfpack.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindUmfpack.cmake
+END
+EigenConfigureTesting.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/EigenConfigureTesting.cmake
+END
+RegexUtils.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/RegexUtils.cmake
+END
+EigenDetermineOSVersion.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/EigenDetermineOSVersion.cmake
+END
+FindLAPACK.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindLAPACK.cmake
+END
+FindGLEW.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindGLEW.cmake
+END
+FindStandardMathLibrary.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindStandardMathLibrary.cmake
+END
+FindSuperLU.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindSuperLU.cmake
+END
+Eigen3Config.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/Eigen3Config.cmake.in
+END
+FindMPFR.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindMPFR.cmake
+END
+FindFFTW.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindFFTW.cmake
+END
+FindPastix.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindPastix.cmake
+END
+FindEigen2.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindEigen2.cmake
+END
+FindEigen3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/cmake/FindEigen3.cmake
+END

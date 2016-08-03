@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/AutoDiff
+END
+AutoDiffVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/AutoDiff/AutoDiffVector.h
+END
+AutoDiffScalar.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/AutoDiff/AutoDiffScalar.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/AutoDiff/CMakeLists.txt
+END
+AutoDiffJacobian.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/AutoDiff/AutoDiffJacobian.h
+END

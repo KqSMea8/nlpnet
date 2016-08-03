@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/tensors
+END
+tensor_benchmarks_cpu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/tensors/tensor_benchmarks_cpu.cc
+END
+tensor_benchmarks_gpu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/tensors/tensor_benchmarks_gpu.cc
+END
+tensor_benchmarks.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/tensors/tensor_benchmarks.h
+END

@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples
+END
+Tutorial_ReductionsVisitorsBroadcasting_maxnorm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_maxnorm.cpp
+END
+Tutorial_ArrayClass_interop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ArrayClass_interop.cpp
+END
+QuickStart_example2_dynamic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/QuickStart_example2_dynamic.cpp
+END
+tut_arithmetic_redux_basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_arithmetic_redux_basic.cpp
+END
+DenseBase_template_int_middleCols.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/DenseBase_template_int_middleCols.cpp
+END
+class_FixedBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_FixedBlock.cpp
+END
+tut_matrix_coefficient_accessors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_matrix_coefficient_accessors.cpp
+END
+class_CwiseBinaryOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_CwiseBinaryOp.cpp
+END
+tut_arithmetic_dot_cross.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_arithmetic_dot_cross.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_rowwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_rowwise.cpp
+END
+TutorialLinAlgExComputeSolveError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgExComputeSolveError.cpp
+END
+Tutorial_ArrayClass_interop_matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ArrayClass_interop_matrix.cpp
+END
+class_CwiseUnaryOp_ptrfun.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_CwiseUnaryOp_ptrfun.cpp
+END
+class_CwiseUnaryOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_CwiseUnaryOp.cpp
+END
+class_Block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_Block.cpp
+END
+TutorialLinAlgSVDSolve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgSVDSolve.cpp
+END
+TutorialLinAlgInverseDeterminant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgInverseDeterminant.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple.cpp
+END
+make_circulant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp
+END
+tut_matrix_resize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_matrix_resize.cpp
+END
+class_FixedVectorBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_FixedVectorBlock.cpp
+END
+make_circulant.cpp.evaluator
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp.evaluator
+END
+Tutorial_simple_example_dynamic_size.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_simple_example_dynamic_size.cpp
+END
+DenseBase_template_int_middleRows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/DenseBase_template_int_middleRows.cpp
+END
+Tutorial_PartialLU_solve.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_PartialLU_solve.cpp
+END
+Tutorial_BlockOperations_corner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_BlockOperations_corner.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/CMakeLists.txt
+END
+Tutorial_ArrayClass_accessors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ArrayClass_accessors.cpp
+END
+.krazy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/.krazy
+END
+DenseBase_middleCols_int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/DenseBase_middleCols_int.cpp
+END
+class_VectorBlock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/class_VectorBlock.cpp
+END
+Tutorial_BlockOperations_vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_BlockOperations_vector.cpp
+END
+Tutorial_BlockOperations_colrow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_BlockOperations_colrow.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_colwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_colwise.cpp
+END
+function_taking_ref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/function_taking_ref.cpp
+END
+TutorialLinAlgSelfAdjointEigenSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgSelfAdjointEigenSolver.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_reductions_norm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_norm.cpp
+END
+make_circulant.cpp.entry
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp.entry
+END
+Tutorial_BlockOperations_block_assignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_BlockOperations_block_assignment.cpp
+END
+TutorialLinAlgSetThreshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgSetThreshold.cpp
+END
+TutorialLinAlgComputeTwice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgComputeTwice.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_broadcast_1nn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_1nn.cpp
+END
+make_circulant.cpp.traits
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp.traits
+END
+tut_arithmetic_scalar_mul_div.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_arithmetic_scalar_mul_div.cpp
+END
+TemplateKeyword_simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TemplateKeyword_simple.cpp
+END
+TemplateKeyword_flexible.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TemplateKeyword_flexible.cpp
+END
+DenseBase_middleRows_int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/DenseBase_middleRows_int.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_reductions_bool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_bool.cpp
+END
+Tutorial_simple_example_fixed_size.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_simple_example_fixed_size.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple_rowwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple_rowwise.cpp
+END
+Tutorial_ArrayClass_addition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ArrayClass_addition.cpp
+END
+TutorialLinAlgRankRevealing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgRankRevealing.cpp
+END
+QuickStart_example2_fixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/QuickStart_example2_fixed.cpp
+END
+make_circulant.cpp.preamble
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp.preamble
+END
+make_circulant.cpp.expression
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp.expression
+END
+Tutorial_ArrayClass_cwise_other.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ArrayClass_cwise_other.cpp
+END
+TutorialLinAlgExSolveColPivHouseholderQR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgExSolveColPivHouseholderQR.cpp
+END
+function_taking_eigenbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/function_taking_eigenbase.cpp
+END
+tut_arithmetic_matrix_mul.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_arithmetic_matrix_mul.cpp
+END
+Tutorial_ArrayClass_mult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ArrayClass_mult.cpp
+END
+Tutorial_ReductionsVisitorsBroadcasting_visitors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_visitors.cpp
+END
+tut_matrix_resize_fixed_size.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_matrix_resize_fixed_size.cpp
+END
+CustomizingEigen_Inheritance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/CustomizingEigen_Inheritance.cpp
+END
+make_circulant.cpp.main
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/make_circulant.cpp.main
+END
+QuickStart_example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/QuickStart_example.cpp
+END
+tut_arithmetic_add_sub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/tut_arithmetic_add_sub.cpp
+END
+Tutorial_BlockOperations_print_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/Tutorial_BlockOperations_print_block.cpp
+END
+TutorialLinAlgExSolveLDLT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/doc/examples/TutorialLinAlgExSolveLDLT.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/StlSupport
+END
+details.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/StlSupport/details.h
+END
+StdList.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/StlSupport/StdList.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/StlSupport/CMakeLists.txt
+END
+StdVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/StlSupport/StdVector.h
+END
+StdDeque.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/StlSupport/StdDeque.h
+END

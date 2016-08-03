@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/myspace/!svn/ver/558843/nlp/global-rewrite/nlptools/test
+END
+mf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/test/mf.cpp
+END
+binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/317060/nlp/global-rewrite/nlptools/test/binary.cpp
+END
+server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/489732/nlp/global-rewrite/nlptools/test/server.cpp
+END
+testKnn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/test/testKnn.cpp
+END
+testEigen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/558843/nlp/global-rewrite/nlptools/test/testEigen.cpp
+END
+testIBM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/test/testIBM.cpp
+END
+testNNRewrite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/489732/nlp/global-rewrite/nlptools/test/testNNRewrite.cpp
+END
+testKmeans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/test/testKmeans.cpp
+END
+gloveDist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/347992/nlp/global-rewrite/nlptools/test/gloveDist.cpp
+END
+HMMtagger.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/test/HMMtagger.py
+END

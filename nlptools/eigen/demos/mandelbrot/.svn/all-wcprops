@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/demos/mandelbrot
+END
+mandelbrot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/demos/mandelbrot/mandelbrot.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/demos/mandelbrot/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/demos/mandelbrot/README
+END
+mandelbrot.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/demos/mandelbrot/mandelbrot.h
+END

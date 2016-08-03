@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data
+END
+mk_mean_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/mk_mean_script.sh
+END
+go_mean
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/go_mean
+END
+perlib_plot_settings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/perlib_plot_settings.txt
+END
+regularize.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/regularize.cxx
+END
+smooth.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/smooth.cxx
+END
+smooth_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/smooth_all.sh
+END
+action_settings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/action_settings.txt
+END
+mk_gnuplot_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/mk_gnuplot_script.sh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/CMakeLists.txt
+END
+gnuplot_common_settings.hh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/gnuplot_common_settings.hh
+END
+mean.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/mean.cxx
+END
+mk_new_gnuplot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/data/mk_new_gnuplot.sh
+END

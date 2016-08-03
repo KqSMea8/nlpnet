@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz
+END
+btl_tiny_blitz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz/btl_tiny_blitz.cpp
+END
+blitz_LU_solve_interface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz/blitz_LU_solve_interface.hh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz/CMakeLists.txt
+END
+blitz_interface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz/blitz_interface.hh
+END
+tiny_blitz_interface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz/tiny_blitz_interface.hh
+END
+btl_blitz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/bench/btl/libs/blitz/btl_blitz.cpp
+END

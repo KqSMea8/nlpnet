@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim
+END
+hadoopUtil.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/hadoopUtil.py
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/test
+END
+mainConf.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/mainConf.py
+END
+run_online.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/run_online.sh
+END
+local_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/local_test.sh
+END
+1_filter_querylog.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/1_filter_querylog.py
+END
+0_begin.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/0_begin.py
+END
+gen_fea.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/gen_fea.py
+END
+wordsim1.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/wordsim1.py
+END
+wordsim2.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/wordsim2.py
+END
+wordsim3.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/290640/nlp/global-rewrite/nlptools/hadoop/wordsim/wordsim3.py
+END

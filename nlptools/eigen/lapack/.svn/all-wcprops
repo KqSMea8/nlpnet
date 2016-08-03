@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack
+END
+zlarf.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/zlarf.f
+END
+zlarfb.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/zlarfb.f
+END
+sladiv.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/sladiv.f
+END
+zlarfg.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/zlarfg.f
+END
+ilaclc.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/ilaclc.f
+END
+iladlc.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/iladlc.f
+END
+dlamch.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlamch.f
+END
+svd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/svd.cpp
+END
+clarfb.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/clarfb.f
+END
+clarfg.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/clarfg.f
+END
+zlarft.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/zlarft.f
+END
+dladiv.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dladiv.f
+END
+ilaclr.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/ilaclr.f
+END
+ilaslc.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/ilaslc.f
+END
+iladlr.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/iladlr.f
+END
+double.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/double.cpp
+END
+slarfb.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slarfb.f
+END
+slapy2.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slapy2.f
+END
+slapy3.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slapy3.f
+END
+clarft.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/clarft.f
+END
+lu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/lu.cpp
+END
+ilazlc.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/ilazlc.f
+END
+cholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/cholesky.cpp
+END
+slarfg.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slarfg.f
+END
+single.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/single.cpp
+END
+dsecnd_NONE.f
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dsecnd_NONE.f
+END
+ilaslr.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/ilaslr.f
+END
+zlacgv.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/zlacgv.f
+END
+clarf.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/clarf.f
+END
+dlarf.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlarf.f
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/CMakeLists.txt
+END
+zladiv.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/zladiv.f
+END
+dlarfb.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlarfb.f
+END
+second_NONE.f
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/second_NONE.f
+END
+slarft.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slarft.f
+END
+dlapy2.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlapy2.f
+END
+dlapy3.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlapy3.f
+END
+ilazlr.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/ilazlr.f
+END
+complex_double.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/complex_double.cpp
+END
+clacgv.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/clacgv.f
+END
+dlarfg.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlarfg.f
+END
+cladiv.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/cladiv.f
+END
+eigenvalues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/eigenvalues.cpp
+END
+lapack_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/lapack_common.h
+END
+complex_single.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/complex_single.cpp
+END
+slarf.f
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slarf.f
+END
+slamch.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/slamch.f
+END
+dlarft.f
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/lapack/dlarft.f
+END

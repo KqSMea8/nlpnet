@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Polynomials
+END
+PolynomialSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Polynomials/PolynomialSolver.h
+END
+Companion.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Polynomials/Companion.h
+END
+PolynomialUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Polynomials/PolynomialUtils.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Polynomials/CMakeLists.txt
+END

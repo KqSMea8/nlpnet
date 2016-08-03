@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers
+END
+IterativeSolverBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/IterativeSolverBase.h
+END
+IncompleteLUT.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/IncompleteLUT.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/CMakeLists.txt
+END
+LeastSquareConjugateGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/LeastSquareConjugateGradient.h
+END
+BasicPreconditioners.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/BasicPreconditioners.h
+END
+SolveWithGuess.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/SolveWithGuess.h
+END
+ConjugateGradient.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/ConjugateGradient.h
+END
+BiCGSTAB.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/IterativeLinearSolvers/BiCGSTAB.h
+END

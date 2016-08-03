@@ -1,0 +1,61 @@
+10
+
+dir
+558856
+https://svn.baidu.com/myspace/nlp/global-rewrite/nlptools/eigen/bench/btl/libs
+https://svn.baidu.com/myspace
+
+
+
+2015-12-30T08:38:28.025098Z
+419945
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+STL
+dir
+
+blitz
+dir
+
+ublas
+dir
+
+eigen2
+dir
+
+eigen3
+dir
+
+blaze
+dir
+
+tensors
+dir
+
+tvmet
+dir
+
+gmm
+dir
+
+mtl4
+dir
+
+BLAS
+dir
+

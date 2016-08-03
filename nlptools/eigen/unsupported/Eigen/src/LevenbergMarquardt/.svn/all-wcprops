@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt
+END
+LevenbergMarquardt.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/LevenbergMarquardt.h
+END
+LMpar.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/LMpar.h
+END
+LMqrsolv.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/LMqrsolv.h
+END
+CopyrightMINPACK.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/CopyrightMINPACK.txt
+END
+LMcovar.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/LMcovar.h
+END
+LMonestep.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/LMonestep.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/LevenbergMarquardt/CMakeLists.txt
+END

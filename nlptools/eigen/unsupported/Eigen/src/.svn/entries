@@ -1,0 +1,107 @@
+10
+
+dir
+558856
+https://svn.baidu.com/myspace/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src
+https://svn.baidu.com/myspace
+
+
+
+2015-12-30T08:38:28.025098Z
+419945
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+FFT
+dir
+
+BVH
+dir
+
+MoreVectorization
+dir
+
+KroneckerProduct
+dir
+
+LevenbergMarquardt
+dir
+
+NonLinearOptimization
+dir
+
+MatrixFunctions
+dir
+
+SparseExtra
+dir
+
+AutoDiff
+dir
+
+Polynomials
+dir
+
+Eigenvalues
+dir
+
+NumericalDiff
+dir
+
+IterativeSolvers
+dir
+
+Splines
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2016-08-03T23:15:20.777116Z
+abc0fc23c1ab9542c4d608c3475cc5ec
+2015-12-30T08:38:28.025098Z
+419945
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+432
+
+Skyline
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/CXX11/src/TensorSymmetry
+END
+Symmetry.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/CXX11/src/TensorSymmetry/Symmetry.h
+END
+DynamicSymmetry.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/CXX11/src/TensorSymmetry/DynamicSymmetry.h
+END
+StaticSymmetry.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/CXX11/src/TensorSymmetry/StaticSymmetry.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/CXX11/src/TensorSymmetry/CMakeLists.txt
+END

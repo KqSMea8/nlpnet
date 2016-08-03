@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Core/arch/SSE
+END
+TypeCasting.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Core/arch/SSE/TypeCasting.h
+END
+PacketMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Core/arch/SSE/PacketMath.h
+END
+MathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Core/arch/SSE/MathFunctions.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Core/arch/SSE/CMakeLists.txt
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Core/arch/SSE/Complex.h
+END

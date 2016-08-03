@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers
+END
+GMRES.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/GMRES.h
+END
+MINRES.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/MINRES.h
+END
+IncompleteLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/IncompleteLU.h
+END
+Scaling.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/Scaling.h
+END
+ConstrainedConjGrad.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/ConstrainedConjGrad.h
+END
+DGMRES.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/DGMRES.h
+END
+IncompleteCholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/IncompleteCholesky.h
+END
+IterationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/IterationController.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/IterativeSolvers/CMakeLists.txt
+END

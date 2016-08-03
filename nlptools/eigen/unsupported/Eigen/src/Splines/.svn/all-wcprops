@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Splines
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Splines/CMakeLists.txt
+END
+Spline.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Splines/Spline.h
+END
+SplineFwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Splines/SplineFwd.h
+END
+SplineFitting.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/Splines/SplineFitting.h
+END

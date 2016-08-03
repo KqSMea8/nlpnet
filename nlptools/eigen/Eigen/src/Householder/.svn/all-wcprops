@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Householder
+END
+BlockHouseholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Householder/BlockHouseholder.h
+END
+Householder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Householder/Householder.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Householder/CMakeLists.txt
+END
+HouseholderSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/Eigen/src/Householder/HouseholderSequence.h
+END

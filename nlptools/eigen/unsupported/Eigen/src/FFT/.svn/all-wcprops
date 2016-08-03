@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/FFT
+END
+ei_fftw_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/FFT/ei_fftw_impl.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/FFT/CMakeLists.txt
+END
+ei_kissfft_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/419945/nlp/global-rewrite/nlptools/eigen/unsupported/Eigen/src/FFT/ei_kissfft_impl.h
+END
