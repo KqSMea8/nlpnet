@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD
+END
+UpperBidiagonalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD/UpperBidiagonalization.h
+END
+JacobiSVD.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD/JacobiSVD.h
+END
+BDCSVD.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD/BDCSVD.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD/CMakeLists.txt
+END
+JacobiSVD_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD/JacobiSVD_MKL.h
+END
+SVDBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SVD/SVDBase.h
+END

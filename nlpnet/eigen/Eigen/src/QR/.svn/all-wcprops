@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR
+END
+ColPivHouseholderQR_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR/ColPivHouseholderQR_MKL.h
+END
+HouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR/HouseholderQR.h
+END
+FullPivHouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR/FullPivHouseholderQR.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR/CMakeLists.txt
+END
+HouseholderQR_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR/HouseholderQR_MKL.h
+END
+ColPivHouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/QR/ColPivHouseholderQR.h
+END

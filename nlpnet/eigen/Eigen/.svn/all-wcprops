@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen
+END
+StdVector
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/StdVector
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/CMakeLists.txt
+END
+StdDeque
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/StdDeque
+END
+MetisSupport
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/MetisSupport
+END
+LU
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/LU
+END
+Cholesky
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Cholesky
+END
+Householder
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Householder
+END
+SPQRSupport
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SPQRSupport
+END
+QR
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/QR
+END
+CholmodSupport
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/CholmodSupport
+END
+UmfPackSupport
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/UmfPackSupport
+END
+StdList
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/StdList
+END
+Jacobi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Jacobi
+END
+Eigen
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Eigen
+END
+Core
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Core
+END
+Geometry
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Geometry
+END
+SuperLUSupport
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SuperLUSupport
+END
+SVD
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SVD
+END
+Sparse
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Sparse
+END
+OrderingMethods
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/OrderingMethods
+END
+SparseLU
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SparseLU
+END
+Dense
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Dense
+END
+PardisoSupport
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/PardisoSupport
+END
+SparseCholesky
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SparseCholesky
+END
+SparseQR
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SparseQR
+END
+QtAlignedMalloc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/QtAlignedMalloc
+END
+PaStiXSupport
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/PaStiXSupport
+END
+IterativeLinearSolvers
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/IterativeLinearSolvers
+END
+SparseCore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/SparseCore
+END
+Eigenvalues
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/Eigenvalues
+END

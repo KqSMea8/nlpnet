@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues
+END
+RealQZ.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/RealQZ.h
+END
+SelfAdjointEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
+END
+SelfAdjointEigenSolver_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/SelfAdjointEigenSolver_MKL.h
+END
+ComplexEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/ComplexEigenSolver.h
+END
+ComplexSchur.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/ComplexSchur.h
+END
+GeneralizedSelfAdjointEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
+END
+ComplexSchur_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/ComplexSchur_MKL.h
+END
+HessenbergDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+END
+EigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/EigenSolver.h
+END
+MatrixBaseEigenvalues.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/CMakeLists.txt
+END
+RealSchur.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/RealSchur.h
+END
+Tridiagonalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/Tridiagonalization.h
+END
+RealSchur_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/RealSchur_MKL.h
+END
+GeneralizedEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h
+END

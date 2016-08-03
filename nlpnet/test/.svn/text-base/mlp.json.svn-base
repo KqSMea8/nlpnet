@@ -1,0 +1,96 @@
+{
+
+"batch_dim": 1,
+"data": "word_index",
+"layers": [
+    {
+        "layer_id": 1,
+        "layer_name": "conc_emb",
+        "input_dim": 4,
+        "output_dim": 200, 
+        "batch_dim": 1,      
+        "layer_type": "conc_emb",
+        "model_config": [
+            {
+                "key": "word_emb",
+                "row_dim": 50,
+                "col_dim": 128,
+                "init_range": 0.08
+            }
+        ],
+        "opt_config": {
+            "learning_rate": 0.05,
+            "batch_size": 1,
+            "learning_method": "sgd"
+        },
+        "connector": [
+            {
+                "in": "word_index",
+                "out": "conc_emb"
+            }
+        ]
+    },
+
+    {
+        "layer_id": 2,
+        "layer_name": "fc0",
+        "input_dim": 200,
+        "output_dim": 128,
+        "batch_dim": 1,
+        "layer_type": "fc",
+        "model_config": [
+            {
+                "key": "fc0_query_layer.w",
+                "row_dim": 128,
+                "col_dim": 200,
+                "init_range": 0.08
+            },
+            {
+                "key": "fc0_query_layer.b",
+                "row_dim": 128,
+                "col_dim": 1,
+                "init_range": 0.08
+            }
+        ],
+        "opt_config": {
+            "learning_rate": 0.05,
+            "batch_size": 1,
+            "learning_method": "sgd"
+        },
+        "connector": [
+            {
+                "in": "conc_emb",
+                "out": "fc0"
+            }
+        ]
+    },
+
+    {
+        "layer_id": 3,
+        "layer_name": "softmax_logloss",
+        "input_dim": 128,
+        "output_dim":128,
+        "batch_dim": 1,
+        "layer_type": "softmax_logloss",
+        "model_config": [
+        ],
+        "opt_config": {
+            "learning_rate": 0.05,
+            "batch_size": 1,
+            "learning_method": "sgd"
+        },
+        "connector": [
+            {
+                "in": "fc0",
+                "out": "softmax"
+            },
+            {
+                "in": "fc0",
+                "out": "loss"
+            }
+        ]
+    }
+
+]
+
+}

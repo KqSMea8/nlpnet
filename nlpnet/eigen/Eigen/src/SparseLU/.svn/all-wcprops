@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU
+END
+SparseLU_pruneL.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_pruneL.h
+END
+SparseLU_Structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_Structs.h
+END
+SparseLU_Memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_Memory.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/CMakeLists.txt
+END
+SparseLU_pivotL.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_pivotL.h
+END
+SparseLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU.h
+END
+SparseLU_kernel_bmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_kernel_bmod.h
+END
+SparseLU_gemm_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_gemm_kernel.h
+END
+SparseLU_column_dfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_column_dfs.h
+END
+SparseLU_panel_dfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_panel_dfs.h
+END
+SparseLU_copy_to_ucol.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_copy_to_ucol.h
+END
+SparseLU_column_bmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_column_bmod.h
+END
+SparseLU_panel_bmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_panel_bmod.h
+END
+SparseLU_heap_relax_snode.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_heap_relax_snode.h
+END
+SparseLU_Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_Utils.h
+END
+SparseLU_SupernodalMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_SupernodalMatrix.h
+END
+SparseLUImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLUImpl.h
+END
+SparseLU_relax_snode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseLU/SparseLU_relax_snode.h
+END

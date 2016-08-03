@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Geometry/arch
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Geometry/arch/CMakeLists.txt
+END
+Geometry_SSE.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Geometry/arch/Geometry_SSE.h
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+558592
+https://svn.baidu.com/myspace/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch
+https://svn.baidu.com/myspace
+
+
+
+2016-03-25T06:18:11.714269Z
+462687
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+Default
+dir
+
+AltiVec
+dir
+
+SSE
+dir
+
+CUDA
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2016-08-03T19:28:23.363118Z
+46fe96ffffa2e2bf05bec1786cc7a641
+2016-03-25T06:18:11.714269Z
+462687
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+145
+
+AVX
+dir
+
+NEON
+dir
+

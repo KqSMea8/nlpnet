@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas
+END
+level2_cplx_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level2_cplx_impl.h
+END
+complex_single.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/complex_single.cpp
+END
+double.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/double.cpp
+END
+xerbla.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/xerbla.cpp
+END
+level1_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level1_impl.h
+END
+level2_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level2_impl.h
+END
+PackedSelfadjointProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/PackedSelfadjointProduct.h
+END
+level3_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level3_impl.h
+END
+level1_real_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level1_real_impl.h
+END
+single.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/single.cpp
+END
+GeneralRank1Update.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/GeneralRank1Update.h
+END
+level2_real_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level2_real_impl.h
+END
+Rank2Update.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/Rank2Update.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/CMakeLists.txt
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/common.h
+END
+PackedTriangularMatrixVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/PackedTriangularMatrixVector.h
+END
+BandTriangularSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/BandTriangularSolver.h
+END
+complex_double.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/complex_double.cpp
+END
+PackedTriangularSolverVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/PackedTriangularSolverVector.h
+END
+level1_cplx_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/level1_cplx_impl.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/myspace/!svn/ver/474891/nlp/global-rewrite/nlpnet/src
+END
+model_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/470476/nlp/global-rewrite/nlpnet/src/model_manager.cpp
+END
+Layer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/myspace/!svn/ver/464723/nlp/global-rewrite/nlpnet/src/Layer.cpp
+END
+neuron_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/467077/nlp/global-rewrite/nlpnet/src/neuron_manager.cpp
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/myspace/!svn/ver/464908/nlp/global-rewrite/nlpnet/src/utils.cpp
+END
+file_spliter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/467110/nlp/global-rewrite/nlpnet/src/file_spliter.cpp
+END
+optimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/myspace/!svn/ver/464723/nlp/global-rewrite/nlpnet/src/optimizer.cpp
+END
+network_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/474891/nlp/global-rewrite/nlpnet/src/network_manager.cpp
+END

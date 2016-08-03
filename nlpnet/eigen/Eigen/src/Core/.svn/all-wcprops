@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core
+END
+MapBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/MapBase.h
+END
+Inverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Inverse.h
+END
+VectorBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/VectorBlock.h
+END
+Transpose.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Transpose.h
+END
+DenseCoeffsBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/DenseCoeffsBase.h
+END
+DiagonalProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/DiagonalProduct.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Random.h
+END
+SolveTriangular.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/SolveTriangular.h
+END
+DenseStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/DenseStorage.h
+END
+Assign.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Assign.h
+END
+NoAlias.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/NoAlias.h
+END
+CwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CwiseUnaryOp.h
+END
+SelfCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/SelfCwiseBinaryOp.h
+END
+Stride.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Stride.h
+END
+PermutationMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/PermutationMatrix.h
+END
+MatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/MatrixBase.h
+END
+Transpositions.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Transpositions.h
+END
+Swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Swap.h
+END
+Reverse.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Reverse.h
+END
+MathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/MathFunctions.h
+END
+PlainObjectBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/PlainObjectBase.h
+END
+CoreIterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CoreIterators.h
+END
+ProductEvaluators.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/ProductEvaluators.h
+END
+Dot.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Dot.h
+END
+Redux.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Redux.h
+END
+DenseBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/DenseBase.h
+END
+BandMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/BandMatrix.h
+END
+TriangularMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/TriangularMatrix.h
+END
+Visitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Visitor.h
+END
+CommaInitializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CommaInitializer.h
+END
+DiagonalMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/DiagonalMatrix.h
+END
+StableNorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/StableNorm.h
+END
+ReturnByValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/ReturnByValue.h
+END
+AssignEvaluator.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/AssignEvaluator.h
+END
+IO.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/IO.h
+END
+Replicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Replicate.h
+END
+Array.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Array.h
+END
+GenericPacketMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/GenericPacketMath.h
+END
+Diagonal.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Diagonal.h
+END
+ArrayWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/ArrayWrapper.h
+END
+CwiseNullaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CwiseNullaryOp.h
+END
+NumTraits.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/NumTraits.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CMakeLists.txt
+END
+BooleanRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/BooleanRedux.h
+END
+Assign_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Assign_MKL.h
+END
+Solve.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Solve.h
+END
+GlobalFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/GlobalFunctions.h
+END
+VectorwiseOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/VectorwiseOp.h
+END
+ArrayBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/ArrayBase.h
+END
+Ref.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Ref.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Map.h
+END
+GeneralProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/GeneralProduct.h
+END
+CwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CwiseBinaryOp.h
+END
+Select.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Select.h
+END
+Product.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Product.h
+END
+EigenBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/EigenBase.h
+END
+CwiseUnaryView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CwiseUnaryView.h
+END
+Fuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Fuzzy.h
+END
+Block.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Block.h
+END
+SelfAdjointView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/SelfAdjointView.h
+END
+CoreEvaluators.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/CoreEvaluators.h
+END
+NestByValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/NestByValue.h
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/Matrix.h
+END
+ForceAlignedAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/ForceAlignedAccess.h
+END

@@ -1,0 +1,137 @@
+10
+
+dir
+558592
+https://svn.baidu.com/myspace/nlp/global-rewrite/nlpnet/eigen/Eigen/src
+https://svn.baidu.com/myspace
+
+
+
+2016-03-25T06:18:11.714269Z
+462687
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+OrderingMethods
+dir
+
+PardisoSupport
+dir
+
+SparseLU
+dir
+
+SparseCholesky
+dir
+
+StlSupport
+dir
+
+SparseQR
+dir
+
+PaStiXSupport
+dir
+
+IterativeLinearSolvers
+dir
+
+SparseCore
+dir
+
+Eigenvalues
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2016-08-03T19:28:23.876125Z
+2ebef3f13165f24e7bc3f09b782f73b2
+2016-03-25T06:18:11.714269Z
+462687
+zengzengfeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+308
+
+MetisSupport
+dir
+
+LU
+dir
+
+Householder
+dir
+
+Cholesky
+dir
+
+plugins
+dir
+
+SPQRSupport
+dir
+
+QR
+dir
+
+CholmodSupport
+dir
+
+UmfPackSupport
+dir
+
+Jacobi
+dir
+
+Core
+dir
+
+Geometry
+dir
+
+misc
+dir
+
+SVD
+dir
+
+SuperLUSupport
+dir
+

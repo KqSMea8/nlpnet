@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/CMakeLists.txt
+END
+sp_solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/sp_solver.cpp
+END
+spbenchsolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/spbenchsolver.cpp
+END
+test_sparseLU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/test_sparseLU.cpp
+END
+spbenchsolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/spbenchsolver.h
+END
+spbenchstyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/spbenchstyle.h
+END
+spbench.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spbench/spbench.dtd
+END

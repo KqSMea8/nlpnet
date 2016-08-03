@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/myspace/!svn/ver/481334/nlp/global-rewrite/nlpnet/include
+END
+file_spliter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/467077/nlp/global-rewrite/nlpnet/include/file_spliter.h
+END
+optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/myspace/!svn/ver/474891/nlp/global-rewrite/nlpnet/include/optimizer.h
+END
+network_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/474891/nlp/global-rewrite/nlpnet/include/network_manager.h
+END
+adagrad_optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/464723/nlp/global-rewrite/nlpnet/include/adagrad_optimizer.h
+END
+grad_check.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/470485/nlp/global-rewrite/nlpnet/include/grad_check.h
+END
+model_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/467110/nlp/global-rewrite/nlpnet/include/model_manager.h
+END
+Layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/myspace/!svn/ver/481334/nlp/global-rewrite/nlpnet/include/Layer.h
+END
+data_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/467110/nlp/global-rewrite/nlpnet/include/data_generator.h
+END
+sgd_optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/474891/nlp/global-rewrite/nlpnet/include/sgd_optimizer.h
+END
+neuron_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/474891/nlp/global-rewrite/nlpnet/include/neuron_manager.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/myspace/!svn/ver/481334/nlp/global-rewrite/nlpnet/include/utils.h
+END

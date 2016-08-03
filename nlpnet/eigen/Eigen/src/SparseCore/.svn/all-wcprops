@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore
+END
+SparseColEtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseColEtree.h
+END
+SparseSolverBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseSolverBase.h
+END
+SparsePermutation.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparsePermutation.h
+END
+SparseRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseRef.h
+END
+SparseMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseMap.h
+END
+SparseUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseUtil.h
+END
+SparseCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseCwiseBinaryOp.h
+END
+SparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseProduct.h
+END
+TriangularSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/TriangularSolver.h
+END
+SparseDot.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseDot.h
+END
+SparseFuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseFuzzy.h
+END
+SparseRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseRedux.h
+END
+SparseBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseBlock.h
+END
+SparseSelfAdjointView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseSelfAdjointView.h
+END
+SparseCompressedBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseCompressedBase.h
+END
+SparseVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseVector.h
+END
+SparseTriangularView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseTriangularView.h
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseMatrix.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/CMakeLists.txt
+END
+SparseView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseView.h
+END
+CompressedStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/CompressedStorage.h
+END
+AmbiVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/AmbiVector.h
+END
+SparseTranspose.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseTranspose.h
+END
+SparseDiagonalProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseDiagonalProduct.h
+END
+SparseAssign.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseAssign.h
+END
+ConservativeSparseSparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/ConservativeSparseSparseProduct.h
+END
+SparseCwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseCwiseUnaryOp.h
+END
+MappedSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/MappedSparseMatrix.h
+END
+SparseSparseProductWithPruning.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseSparseProductWithPruning.h
+END
+SparseDenseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseDenseProduct.h
+END
+SparseMatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SparseCore/SparseMatrixBase.h
+END

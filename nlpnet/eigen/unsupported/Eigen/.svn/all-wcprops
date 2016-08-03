@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen
+END
+FFT
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/FFT
+END
+BVH
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/BVH
+END
+OpenGLSupport
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/OpenGLSupport
+END
+MoreVectorization
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/MoreVectorization
+END
+KroneckerProduct
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/KroneckerProduct
+END
+LevenbergMarquardt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/LevenbergMarquardt
+END
+NonLinearOptimization
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/NonLinearOptimization
+END
+MatrixFunctions
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/MatrixFunctions
+END
+ArpackSupport
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/ArpackSupport
+END
+AutoDiff
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/AutoDiff
+END
+SparseExtra
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/SparseExtra
+END
+Polynomials
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/Polynomials
+END
+AdolcForward
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/AdolcForward
+END
+NumericalDiff
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/NumericalDiff
+END
+AlignedVector3
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/AlignedVector3
+END
+IterativeSolvers
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/IterativeSolvers
+END
+MPRealSupport
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/MPRealSupport
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/CMakeLists.txt
+END
+Splines
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/Splines
+END
+Skyline
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/Skyline
+END

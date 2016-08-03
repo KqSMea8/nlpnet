@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU/CMakeLists.txt
+END
+Determinant.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU/Determinant.h
+END
+PartialPivLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU/PartialPivLU.h
+END
+InverseImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU/InverseImpl.h
+END
+PartialPivLU_MKL.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU/PartialPivLU_MKL.h
+END
+FullPivLU.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/LU/FullPivLU.h
+END

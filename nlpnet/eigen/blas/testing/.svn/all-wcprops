@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing
+END
+zblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/zblat3.f
+END
+cblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/cblat1.f
+END
+dblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/dblat1.f
+END
+cblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/cblat2.f
+END
+cblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/cblat3.f
+END
+dblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/dblat2.f
+END
+dblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/dblat3.f
+END
+sblat2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/sblat2.dat
+END
+sblat3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/sblat3.dat
+END
+zblat2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/zblat2.dat
+END
+zblat3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/zblat3.dat
+END
+sblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/sblat1.f
+END
+sblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/sblat2.f
+END
+sblat3.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/sblat3.f
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/CMakeLists.txt
+END
+cblat2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/cblat2.dat
+END
+cblat3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/cblat3.dat
+END
+dblat2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/dblat2.dat
+END
+runblastest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/runblastest.sh
+END
+dblat3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/dblat3.dat
+END
+zblat1.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/zblat1.f
+END
+zblat2.f
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/testing/zblat2.f
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench
+END
+benchVecAdd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchVecAdd.cpp
+END
+bench_unrolling
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/bench_unrolling
+END
+quatmul.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/quatmul.cpp
+END
+benchmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchmark.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/README.txt
+END
+geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/geometry.cpp
+END
+product_threshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/product_threshold.cpp
+END
+basicbenchmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/basicbenchmark.cpp
+END
+sparse_product.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_product.cpp
+END
+bench_multi_compilers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/bench_multi_compilers.sh
+END
+sparse_trisolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_trisolver.cpp
+END
+eig33.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/eig33.cpp
+END
+bench_reverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/bench_reverse.cpp
+END
+bench_norm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/bench_norm.cpp
+END
+benchmark-blocking-sizes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchmark-blocking-sizes.cpp
+END
+sparse_dense_product.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_dense_product.cpp
+END
+benchFFT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchFFT.cpp
+END
+quat_slerp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/quat_slerp.cpp
+END
+BenchUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/BenchUtil.h
+END
+benchmark_suite
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchmark_suite
+END
+benchEigenSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchEigenSolver.cpp
+END
+sparse_setter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_setter.cpp
+END
+analyze-blocking-sizes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/analyze-blocking-sizes.cpp
+END
+benchBlasGemm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchBlasGemm.cpp
+END
+sparse_transpose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_transpose.cpp
+END
+benchGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchGeometry.cpp
+END
+basicbench.cxxlist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/basicbench.cxxlist
+END
+check_cache_queries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/check_cache_queries.cpp
+END
+sparse_lu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_lu.cpp
+END
+sparse_cholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_cholesky.cpp
+END
+BenchSparseUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/BenchSparseUtil.h
+END
+basicbenchmark.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/basicbenchmark.h
+END
+bench_sum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/bench_sum.cpp
+END
+vdw_new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/vdw_new.cpp
+END
+benchmarkSlice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchmarkSlice.cpp
+END
+dense_solvers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/dense_solvers.cpp
+END
+benchmarkXcwise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchmarkXcwise.cpp
+END
+benchCholesky.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchCholesky.cpp
+END
+benchmarkX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/benchmarkX.cpp
+END
+bench_gemm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/bench_gemm.cpp
+END
+sparse_randomsetter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/sparse_randomsetter.cpp
+END
+spmv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/spmv.cpp
+END
+BenchTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/BenchTimer.h
+END

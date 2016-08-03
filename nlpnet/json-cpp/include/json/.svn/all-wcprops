@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/json.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/value.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/writer.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/features.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/reader.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/config.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/autolink.h
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/json-cpp/include/json/forwards.h
+END

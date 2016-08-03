@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c
+END
+sspmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/sspmv.c
+END
+ctbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/ctbmv.c
+END
+dsbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/dsbmv.c
+END
+srotmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/srotmg.c
+END
+dtbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/dtbmv.c
+END
+chpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/chpmv.c
+END
+d_cnjg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/d_cnjg.c
+END
+drotm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/drotm.c
+END
+zhbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/zhbmv.c
+END
+dspmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/dspmv.c
+END
+ssbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/ssbmv.c
+END
+stbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/stbmv.c
+END
+drotmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/drotmg.c
+END
+chbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/chbmv.c
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/lsame.c
+END
+complexdots.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/complexdots.c
+END
+ztbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/ztbmv.c
+END
+r_cnjg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/r_cnjg.c
+END
+datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/datatypes.h
+END
+zhpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/zhpmv.c
+END
+srotm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/blas/f2c/srotm.c
+END

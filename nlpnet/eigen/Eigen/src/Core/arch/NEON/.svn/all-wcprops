@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/NEON
+END
+PacketMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/NEON/PacketMath.h
+END
+MathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/NEON/MathFunctions.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/NEON/CMakeLists.txt
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/NEON/Complex.h
+END

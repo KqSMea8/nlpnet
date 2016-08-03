@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/btl/libs/tensors
+END
+main_matmat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/btl/libs/tensors/main_matmat.cpp
+END
+tensor_interface.hh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/btl/libs/tensors/tensor_interface.hh
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/btl/libs/tensors/CMakeLists.txt
+END
+main_linear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/btl/libs/tensors/main_linear.cpp
+END
+main_vecmat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/bench/btl/libs/tensors/main_vecmat.cpp
+END

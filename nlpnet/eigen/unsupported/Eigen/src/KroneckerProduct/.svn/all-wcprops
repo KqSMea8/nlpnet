@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/src/KroneckerProduct
+END
+KroneckerTensorProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/src/KroneckerProduct/KroneckerTensorProduct.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/src/KroneckerProduct/CMakeLists.txt
+END

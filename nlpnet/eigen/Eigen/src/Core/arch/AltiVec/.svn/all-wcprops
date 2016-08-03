@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/AltiVec
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/AltiVec/CMakeLists.txt
+END
+Complex.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/AltiVec/Complex.h
+END
+PacketMath.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/AltiVec/PacketMath.h
+END
+MathFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/Core/arch/AltiVec/MathFunctions.h
+END

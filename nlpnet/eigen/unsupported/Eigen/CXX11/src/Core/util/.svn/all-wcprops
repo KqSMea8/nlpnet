@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/CXX11/src/Core/util
+END
+EmulateCXX11Meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/CXX11/src/Core/util/EmulateCXX11Meta.h
+END
+CXX11Meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/CXX11/src/Core/util/CXX11Meta.h
+END
+CXX11Workarounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/CXX11/src/Core/util/CXX11Workarounds.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/unsupported/Eigen/CXX11/src/Core/util/CMakeLists.txt
+END

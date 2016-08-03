@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SPQRSupport
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SPQRSupport/CMakeLists.txt
+END
+SuiteSparseQRSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/myspace/!svn/ver/462687/nlp/global-rewrite/nlpnet/eigen/Eigen/src/SPQRSupport/SuiteSparseQRSupport.h
+END
